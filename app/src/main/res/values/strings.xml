@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParserAp</string>
+    <string name="caption">Welcome Dear User!</string>
+    <string name="mytext">myText</string>
+    <string name="key_id">key_id</string>
+    <string name="description_text">description_text</string>
+</resources>
